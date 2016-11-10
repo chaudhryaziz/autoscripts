@@ -1,0 +1,3 @@
+This folder contains scripts to assist in automating mundane audio related tasks
+
+audsniff - Audio Sniff n'Grab: This tool allows you to capture any playing audio, pass it to a song identifying algorithm, and get a list of places where it is avalible in your licensed collection. For example, if you subscribe to Amazon Prime, you get Prime music collection for free. Audio Sniff n'Grab will check to see if the identified song is avalible in your Prime library and add it automatically. 
